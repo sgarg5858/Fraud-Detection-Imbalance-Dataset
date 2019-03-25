@@ -1,4 +1,5 @@
-# How-to-tackle-Imbalance-Dataset
+# Fraud-Detection-Imbalance-Dataset
+
 
 Dataset is availble on kaggle by Fraud Detection
 
